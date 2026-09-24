@@ -11,14 +11,15 @@
 - JavaScript：页面交互效果、轮播、表单简单逻辑
 
 ## 📁项目目录结构
-breakfast_food_website
-├── css          # 样式文件
-├── images       # 项目图片资源
-├── js           # javascript 交互脚本
-├── media        # 媒体资源
-├── subpage      # 子页面
-├── index.html   # 网站首页
-└── login.html   # 登录页面
+- breakfast_food_website
+  - css      # 样式文件
+  - images   # 项目图片资源
+  - js       # javascript 交互脚本
+  - media    # 媒体资源
+  - subpage  # 子页面
+  - index.html # 网站首页
+  - login.html # 登录页面
+
 
 
 ## 🔗访问地址
@@ -29,3 +30,9 @@ breakfast_food_website
 1. 克隆仓库到本地
 ```bash
 git clone https://github.com/Hamm88/breakfast_food_website.git
+
+## 📝项目亮点
+1. 纯原生前端开发，无框架依赖，代码通俗易懂
+2. 完整多页面项目，模拟真实企业网站开发流程
+3. 包含轮播图、导航栏、产品展示、登录页多种业务场景
+4. 部署GitHub‑Pages实现公网在线访问
